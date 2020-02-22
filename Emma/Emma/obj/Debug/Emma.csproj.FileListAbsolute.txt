@@ -1,0 +1,21 @@
+E:\Esoft\C#\Emma\Emma\bin\Debug\Emma.exe.config
+E:\Esoft\C#\Emma\Emma\bin\Debug\Emma.exe
+E:\Esoft\C#\Emma\Emma\bin\Debug\Emma.pdb
+E:\Esoft\C#\Emma\Emma\obj\Debug\Emma.csprojResolveAssemblyReference.cache
+E:\Esoft\C#\Emma\Emma\obj\Debug\Emma.Form1.resources
+E:\Esoft\C#\Emma\Emma\obj\Debug\Emma.Properties.Resources.resources
+E:\Esoft\C#\Emma\Emma\obj\Debug\Emma.csproj.GenerateResource.Cache
+E:\Esoft\C#\Emma\Emma\obj\Debug\Emma.exe
+E:\Esoft\C#\Emma\Emma\obj\Debug\Emma.pdb
+E:\Esoft\C#\Emma\Emma\obj\Debug\Emma.VLC_Player.resources
+E:\Esoft\My New Project\Emma\Emma\bin\Debug\Emma.exe.config
+E:\Esoft\My New Project\Emma\Emma\bin\Debug\Emma.exe
+E:\Esoft\My New Project\Emma\Emma\bin\Debug\Emma.pdb
+E:\Esoft\My New Project\Emma\Emma\obj\Debug\Emma.csprojAssemblyReference.cache
+E:\Esoft\My New Project\Emma\Emma\obj\Debug\Emma.Form1.resources
+E:\Esoft\My New Project\Emma\Emma\obj\Debug\Emma.Properties.Resources.resources
+E:\Esoft\My New Project\Emma\Emma\obj\Debug\Emma.VLC_Player.resources
+E:\Esoft\My New Project\Emma\Emma\obj\Debug\Emma.csproj.GenerateResource.cache
+E:\Esoft\My New Project\Emma\Emma\obj\Debug\Emma.csproj.CoreCompileInputs.cache
+E:\Esoft\My New Project\Emma\Emma\obj\Debug\Emma.exe
+E:\Esoft\My New Project\Emma\Emma\obj\Debug\Emma.pdb

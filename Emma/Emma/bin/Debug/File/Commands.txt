@@ -1,0 +1,23 @@
+Hello
+How are you
+What time is it
+What day is it
+Open Google
+wake up
+sleep
+restart
+update
+open word
+close word
+whats the weather like
+what is the tempereature
+hey Emma
+tell me a joke
+minimize
+maximize
+unminimize
+play
+pause
+                "AIMP",
+                "next",
+                "last" 
